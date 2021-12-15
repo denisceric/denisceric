@@ -1,4 +1,6 @@
-# dc
+# Denis Ceric
+
+My personal website.
 
 ## Build Setup
 
